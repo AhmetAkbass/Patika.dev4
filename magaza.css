@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container-1 {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    background-color: rgb(0, 0, 54);
+    color: white;
+}
+a {
+    text-decoration: none;
+    color: white;
+    
+}
+.box-1{
+    margin-right: auto;
+}
+.box-2{
+    margin-right:30px;
+}
+h1 {
+    font-size: 34px;
+    text-align: center;
+}
+img {
+    width: 100%;
+    height: 400px;
+}
+.container-2 {
+    display:flex;
+    justify-content: center;
+    margin: 5px;
+}
+.link {
+    color: black;
+    font-weight: bold;
+}
+.foto {
+    width: 300px;
+    height: 300px;
+    margin-top:10px;
+}
